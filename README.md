@@ -1,6 +1,6 @@
 @ Mimee Xu
 
-![avatar](avatar.jpg)
+![avatar](https://avatars3.githubusercontent.com/u/1208951)
 
 # Bio
 PhD student in New York. mimee AT nyu.edu
