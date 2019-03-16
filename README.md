@@ -1,5 +1,6 @@
-# mimee.xyz
-Mostly site tests
+@ Mimee Xu
+
+![avatar](avatar.jpg)
 
 # Bio
 PhD student in New York. mimee AT nyu.edu
@@ -7,21 +8,8 @@ PhD student in New York. mimee AT nyu.edu
 # Ideas
 Security x machine learning.
 
-# Blog
-Maybe.
+There are 3 projects I care the most about:
 
-# Shitty ideas
-Many.
-
-# In a past life
-Used to have friends.
-
-# Identity
-## Twitter
-what is ...a twitter?
-## Instagram
-Follow my babybot mimee.ai on Insta!
-
-# Projects
-Many.
-
+Causality in social media amplification: recommenders and election outcomes
+Towards secure transaction and fair pricing of training data
+Learned containment: generated sandbox by repeated fuzzing and patching
