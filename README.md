@@ -14,9 +14,7 @@ Security x machine learning.
 
 There are 3 projects I care the most about:
 
-1. Causality in social media amplification: recommenders and election outcomes.
-
-[Project intro page.](causal-influence-platform-propagation)
+1. Causality in social media amplification: recommenders and election outcomes. [Project intro page.](causal-influence-platform-propagation)
 
 2. Towards secure transaction and fair pricing of training data
 
