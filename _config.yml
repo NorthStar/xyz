@@ -1,3 +1,21 @@
+plugins:
+  - jekyll-seo-tag #add {% seo %} before </head> in templates
+
+# Stylistic choices
 theme: jekyll-theme-minimal
+
+# Site info
 title: mimee
 description: site tests
+
+
+# SEO > twitter name meta
+twitter:
+  username: MimeeXu
+
+# SEO > site name meta
+social:
+  name: "Mimee Xu"
+
+# SEO > article author meta
+author: MimeeXu
