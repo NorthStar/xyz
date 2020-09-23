@@ -5,10 +5,13 @@ plugins:
 theme: jekyll-theme-minimal
 
 # Site info
-title: mimee
+title: mimee.xyz
 description: PhD Student at New York University
+subdescription: Mimee Xu
 
 logo: /logo.png
+
+markdown: CommonMarkGhPages
 
 # SEO > twitter name meta
 twitter:
