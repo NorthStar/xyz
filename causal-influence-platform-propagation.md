@@ -1,4 +1,4 @@
-A cursory, informal outline of a tech policy project I am working on. (*) means nuanced claims that deserves more real estate than what I provide.
+A cursory, informal outline of a tech policy project I am working on. (*) means nuanced claims that deserve more real estate than what I provide.
 
 # Introduction
 This project aims to measure the effect of an adversary on an election. The main dynamic of concern is that of a consensus: everyone gets a vote and the winner of the count takes all.

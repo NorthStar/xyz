@@ -6,8 +6,9 @@ theme: jekyll-theme-minimal
 
 # Site info
 title: mimee
-description: site tests
+description: PhD Student at New York University
 
+logo: /logo.png
 
 # SEO > twitter name meta
 twitter:
@@ -19,3 +20,6 @@ social:
 
 # SEO > article author meta
 author: MimeeXu
+
+github:
+  is_project_page: false
