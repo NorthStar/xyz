@@ -75,7 +75,7 @@ Ongoing
 ## Survey on Mean Field Methods In Deep Learning
 - w/ Mudit Pandey as part of math in deep learning coursework (Prof. Joan Bruna, New York University).
 
-I wrote a [🔗survey paper🔗](/assets/meanfield.pdf) that helps me understand 1) Mean Field Methods as applied to the theory of deep learning, and 2) a physicist-style modeling, which I applied to qualitative political science.
+I wrote a [🔗survey paper🔗](/meanfield.pdf) that helps me understand 1) Mean Field Methods as applied to the theory of deep learning, and 2) a physicist-style modeling, which I applied to qualitative political science.
 
 ----
 ## A Worry-free Encryption Plan for Healthcare Data
