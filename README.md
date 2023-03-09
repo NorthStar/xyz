@@ -1,10 +1,14 @@
-I work on the joint topic of security and machine learning in the computer science department of NYU's Courant Institute of Mathematics.
+I work on the joint topic of privacy (and security) and machine learning.
 
-I worked an engineer at Google, Baidu, and UnifyID.
+These days I am developing my thesis on technical solutions on data governance for AI, as a PhD student in the computer science department of NYU's Courant Institute of Mathematics.
+
+I worked as an engineer at Google Chrome, Baidu Silicon Valley AI Lab, and UnifyID.
+
+I PhD-interned at Facebook AI research, and Bytedance recommendations.
 
 ----
 ## Machine Learning for Systems
-
+In the past 5 years I have been involved in putting together space and community for interdiscplinary machine learning and systems research, mainly through chill dinners and recurring workshops at NeurIPS.
 <details>
 <summary>
 On behalf of the organizing committee, I am soliciting submissions that <b>apply Machine Learning to Systems</b>.
@@ -21,7 +25,7 @@ On behalf of the organizing committee, I am soliciting submissions that <b>apply
 
 </details></br>
 
-[**🔗2020 CALL FOR PAPER🔗**](http://mlforsystems.org/call_for_papers.html)
+[**🔗2022 CALL FOR PAPER🔗**](http://mlforsystems.org/call_for_papers.html)
 
 ----
 ## Research Areas
