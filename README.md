@@ -28,9 +28,18 @@ On behalf of the organizing committee, I am soliciting submissions that <b>apply
 [**🔗2022 CALL FOR PAPER🔗**](http://mlforsystems.org/call_for_papers.html)
 
 ----
-## Research Areas
+## PhD Research
+My work on the Right To Be Forgotten is on Arxiv.
 
-My work on securing machine learning falls under three rough categories
+**Netflix and Forget** Efficient and Exact Machine Unlearning from Bi-linear Recommendations (With ByteDance) [🔗🔗](https://arxiv.org/abs/2302.06676)
+
+My work on data appraisal using secure multi-party computation is published at AISTATS 2022 (With Facebook AI Research).
+
+**Data Appraisal Without Data Sharing** [🔗🔗](https://proceedings.mlr.press/v151/xu22e/xu22e.pdf)
+
+
+## Areas I think about
+My past work on securing machine learning falls under three rough categories
 1. [🔗⬇️🔗](#network) Mean-field analysis for causality in social media amplification.
 This abstracts social media recommenders to an influence on election outcomes.
 
