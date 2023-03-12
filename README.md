@@ -35,11 +35,10 @@ NeurIPS Workshop on <b>Machine Learning for Systems</b> .
 
 <p>My work on the Right To Be Forgotten for content recommenders (with ByteDance).</p>
 
-My work on data appraisal using secure multi-party computation is published at AISTATS 2022 (with Facebook AI Research).
-
 ### [**Data Appraisal Without Data Sharing** 🔗🔗](https://proceedings.mlr.press/v151/xu22e/xu22e.pdf)
 
-<p>My work on appraising additional training using secure multi-party computation is published at AISTATS 2022 (with Facebook AI Research).</p>
+<p>My work on appraising additional training using secure multi-party computation is published at AISTATS 2022 (with Facebook AI Research).
+</p>
 
 
 ----
