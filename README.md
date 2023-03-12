@@ -1,6 +1,6 @@
-I work on the joint topic of privacy (and security) and machine learning.
+## AI Privacy, Security, and Machine Learning
 
-In 2023, I am developing my PhD thesis on data economy towards machine learning and AI governance, in the computer science department of NYU's Courant Institute of Mathematics.
+In 2023, I am developing my PhD thesis on AI Privacy -- broadly towards data economy and the governance on machine learning and AI -- in the computer science department of NYU's Courant Institute of Mathematics.
 
 I worked as an engineer at Google Chrome, Baidu Silicon Valley AI Lab, and UnifyID. I PhD-interned at Facebook AI Research, and TikTok Recommendations.
 
@@ -30,16 +30,16 @@ NeurIPS Workshop on <b>Machine Learning for Systems</b> .
 ----
 ## PhD Research
 
-<p>My work on the Right To Be Forgotten for bi-linear recommendations is on arXiv.
+### [**Netflix and Forget** Efficient and Exact Machine Unlearning from Bi-linear Recommendations (with ByteDance) 🔗🔗](https://arxiv.org/abs/2302.06676)
 
-**Netflix and Forget** Efficient and Exact Machine Unlearning from Bi-linear Recommendations (with ByteDance) [🔗🔗](https://arxiv.org/abs/2302.06676)
-</p>
+<p>My work on the Right To Be Forgotten for content recommenders (with ByteDance).</p>
 
-<p>
+<
 My work on data appraisal using secure multi-party computation is published at AISTATS 2022 (with Facebook AI Research).
 
-**Data Appraisal Without Data Sharing** [🔗🔗](https://proceedings.mlr.press/v151/xu22e/xu22e.pdf)
-</p>
+### [**Data Appraisal Without Data Sharing** 🔗🔗](https://proceedings.mlr.press/v151/xu22e/xu22e.pdf)
+
+<p>My work on appraising additional training using secure multi-party computation is published at AISTATS 2022 (with Facebook AI Research).</p>
 
 ----
 ## Past Projects
