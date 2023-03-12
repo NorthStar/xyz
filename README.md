@@ -61,16 +61,16 @@ Besides these, I enjoy thinking about systems and design problems in technology.
 I would also love to [hear your practical privacy challenges](#contact-me) that relate to managing data and models.
 
 ---
-## <a name="network"></a> A Model for Network Influence
+### <a name="network"></a> A Model for Network Influence
 - as part of the coursework on Applied Causality (a seminar with Prof. David Blei, Columbia University).
 
 **Abstract** In November 2016, when all the polls predicted a Clinton presidency, America got Trump. Assuming that the pollsters had sampled real sentiments from real voters, what could be the *cause* for the shift in election result? This is rather hard to untangle, since very few entities have the data on social networks' topology. There is also the challenge of assessing cyclic causes over time, akin to studying a network influence question: does the eating disorder community on the internet *cause* eating disorder? This work explores different high level aspects of network influence via a mean-field approach across average networks, controlling for variance of election outcomes away from the fundamentals. The goal of this exploration is to offer a simulation and theoretic model, a combination that clarifies qualitative phenomena and evaluates potential policy interventions with impact. [🔗Project intro page.🔗](causal-influence-platform-propagation)
 
 ----
-## <a name="secure-data"></a> Towards Fair Pricing and Secure Transaction of Training data.
+### <a name="secure-data"></a> Towards Fair Pricing and Secure Transaction of Training data.
 This project has the broad goal of streamlinining the incentives problems with data markets. There are three endeavers so far on trackling the challenge:
 
-### Data Appraisal without Data Sharing
+#### Data Appraisal without Data Sharing
 
 - as part of an internship at Facebook AI Research.
 
@@ -79,7 +79,7 @@ The goal is to evaluate the effect training data will have on a pre-trained mode
 **Main insight** One single step of natural gradient descent may be more desirable than one (Euclidean) gradient descent step, when used to evaluate the relative effect of various batches of data. If the ranking information between datasets correlates with the test loss resulted from add-one-on training, this information can be used to approximate the price of data without training on it. An application of that is private pricing before transaction. If this model is small enough, it can be done in private without much numerical imprecision. (to appear)
 
 
-### Data Efficacy
+#### Data Efficacy
 
 - work before FAIR internship, poster presented at NeurIPS workshops 2017/2018.
 
@@ -88,7 +88,7 @@ Implementing smart contracts for the effect of training data is extremely expens
 1. Studied the extracted models as a potential auxiliary function for enabling encrypted transactions, because they are not as secretive as the original models due to poor accuracy, yet may be used to evaluate data acquisition, enabling smart contracts.
 2. Studied the effect of the gradients of compressed models used in private to gauge data value.
 
-### Mechanism design for acquiring and deleting training data (w/ Qingyun Sun)
+#### Mechanism design for acquiring and deleting training data (w/ Qingyun Sun)
 
 Data markets are crucial part of the future of our economy. Traditional market practices tend to be inefficient when applied to data as a commodity. Because 1. data can be replicated at low cost, and 2. information contained in data can be privacy-relevant.
 
@@ -100,13 +100,13 @@ This work is ongoing.
 
 ---
 
-## Survey on Mean Field Methods In Deep Learning
+### Survey on Mean Field Methods In Deep Learning
 - w/ Mudit Pandey as part of math in deep learning coursework (Prof. Joan Bruna, New York University).
 
 I wrote a [🔗survey paper🔗](/meanfield.pdf) that helps me understand 1) Mean Field Methods as applied to the theory of deep learning, and 2) a physicist-style modeling, which I applied to qualitative political science.
 
 ----
-## A Worry-free Encryption Plan for Healthcare Data
+### A Worry-free Encryption Plan for Healthcare Data
 
 [🔗HEalth: Privately Computing on Shared Healthcare Data🔗](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_12)
 - w/ Leo de Castro, Rami el Khatib, and Erin Hales at [🔗Microsoft Research Private AI Bootcamp🔗](https://www.microsoft.com/en-us/research/event/private-ai-bootcamp/), part of a book chapter on [Protecting Privacy through Homomorphic Encryption](https://link.springer.com/book/10.1007/978-3-030-77287-1)
@@ -120,7 +120,7 @@ On the other hand, regulatory agencies need to uphold the ethics standards for h
 </details></br>
 
 ---
-## Private ML Demo
+### Private ML Demo
 
 A “magic mirror” made with two-way mirrors using purely on-device computations, allowing deployment into the most private spaces (e.g. as a bathroom mirror). It monitors skin conditions, and counts your morning jumping jacks.
 
