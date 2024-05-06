@@ -1,13 +1,22 @@
-## AI Privacy, Security, and Machine Learning
+## The Role of Data in Securing Our AI Future
+Through my research, I hope to mitigate the erosion of individual autonomy perpetuated by a data-fueled, AI-powered economy.
 
-In 2023, I am developing my PhD thesis on AI Privacy -- broadly towards data economy and the governance on machine learning and AI -- in the computer science department of NYU's Courant Institute of Mathematics.
+The development of AI exacerbates and emboldens the loss of individual control over data, yet at the same time, it requires vasts amounts of new data in order to scale and maintain control, especially in the worst-case scenarios. Data rights can be an important piece in the checks and balances in our future.
 
+Remark: an interesting framing is that I work on *neartermist* *safety*. Weaponizing AI to take away people's agency is happening in some parts of the world -- certainly not *longtermist*. While most of my peers work on scaling large models, I catastrophize large scale societal harm. I am ok with this label, because it motivates me to take grounded approaches in the lofty subject that is AI safety.
 
-I worked as an engineer at Google Chrome, Baidu Silicon Valley AI Lab, and UnifyID. I PhD-interned at Facebook AI Research, and TikTok Recommendations.
+## Privacy, Security, and Machine Learning
+In 2024, I am developing my PhD thesis on AI Privacy -- broadly towards preserving data rights with security techniques -- in the computer science department of NYU's Courant Institute of Mathematics.
+
+Privacy is not the villain of the story of positive AI outcomes. A path forward I see involves 1. a private data economy that affords healthy market environments and 2. sustainable AI governance through individuals' right over their data, starting from enabling the right to forget.
+
+I am advised by Prof. Leon Bottou.
+
+I worked as an engineer at Google Chrome, Baidu Silicon Valley AI Lab, and UnifyID. I PhD-interned at Facebook AI Research, and TikTok Applied ML recommendations.
 
 ----
-## Machine Learning for Systems
-Over the past 5 years I have been involved in fostering an interdiscplinary research community on machine learning and systems at NeurIPS.
+## Machine Learning for Systems (MLforSystems)
+Over the past 5 years, I have been co-fostering an interdisciplinary research community on machine learning and systems at NeurIPS. We believe machine learning is impactful not just through replacing existing systems, but by fundamentally changing the ways we build new ones.
 <details>
 <summary>
 NeurIPS Workshop on <b>Machine Learning for Systems</b> .
@@ -31,21 +40,49 @@ NeurIPS Workshop on <b>Machine Learning for Systems</b> .
 ----
 ## PhD Research
 
-### [**Netflix and Forget** Efficient and Exact Machine Unlearning from Bi-linear Recommendations (with ByteDance) 🔗🔗](https://arxiv.org/abs/2302.06676)
+### **Netflix and Forget**
+Efficient and Exact Machine Unlearning from Bi-linear Recommendations.[Paper draft](https://arxiv.org/abs/2302.06676).
 
-<p>My work on the Right To Be Forgotten for content recommenders (with ByteDance).</p>
+My work on the Right To Be Forgotten for content recommenders (with ByteDance).
 
 ### [**Data Appraisal Without Data Sharing** 🔗🔗](https://proceedings.mlr.press/v151/xu22e/xu22e.pdf)
-
 <p>My work on appraising additional training using secure multi-party computation is published at AISTATS 2022 (with Facebook AI Research).
 </p>
 
-
 ----
-## Past Projects
+## Of Ongoing Interests
+I am starting an organization for secure and private evaluations on safety-critical tasks. Stay tuned, and reach out if you are interested.
+
+I'm working on integrating cutting-edge cryptography and security techniques into applications that may become future infrastructure. I have opinions on the techniques that afford better policy regarding our future relationship with AI.
+
+I am additionally interested in both the generalizeable security of machine learning, and using machine learning to enhance systems security.
+
+### Large Model Evaluations
+In 2020, I participated in what became the popular LLM benchmark Big-Bench (Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models). Together with Rowan Jacobs and James Koppel, the project Conlang Translation won a spotlight at the Workshop on Enormous Language Models.
+
+**Probing Pre-trained LLMs w/ Linguistic Puzzles** (ICLR 21’ Big-Bench spotlight, big-bench [paper](https://arxiv.org/abs/2206.04615), our [slides](https://docs.google.com/presentation/d/1D1VbPVOyemPC6GkoU3gHjfs6pWOMZovbK7eq082tLrk/edit?usp=sharing)).
+
+
+### Private ML and Confidential Computing
+In the past, I was part of a few exploratory workshops on privacy and machine learning.
+
+Even though my research is on machine learning, I enjoy integrating cryptography for privacy-preserving machine learning to demo what can be done. Examples included on-device fitness analysis on [smart mirrors](#smart-mirror-demo), and secure algorithms for [fair healthcare triage](#homomorphic-health). The underlying security techniques can enrich areas in machine learning I deem likely infrastructural in our future, without sacrificing the bulk of economic opportunities and market competitiveness.
+
+<!-- Microsoft Private AI: **A Worry-free Encryption Plan for Healthcare** ([video](https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-competition-teams-6/), book [chapter](https://link.springer.com/book/10.1007/978-3-030-77287-1)). -->
+
+
+System Security: Learned Containment: Generated Sandbox by Repeated Fuzzing and Patching.
+Policy x Causal Inference: Election with Causality — A Mean Field Model and Turnout Simulation.
+
+### Technical Aid To AI Policy
+Though privacy is a focus on AI policy, solutions towards privacy are lacking behind. I am interested in techniques beyond differential privacy. This includes defining contextual privacy computationally, systemic re-identification risk assessment, membership inference, deleting training data ([slides for talk at RIKEN](https://docs.google.com/presentation/d/1ZA7EDiyMlXzFDogVyZa2TyMo-PaDCaqrfltCQclIUJQ/edit?usp=sharing)).
+
+### Security Through Generalization Evals
+AI Security (with generalization): Understanding augmentation and simulation, theory of domain randomization, defining ‘similar’ environments, learning in the presence of adversaries (talk [slides](https://docs.google.com/presentation/d/1YPRqI8xb4-_KplgJOIowFBAR_FTMtuDUPB1oukGvxBw/edit?usp=sharing)).
+
 <details>
 <summary>
-I am broadly interested in the intersection of <b>machine learning</b> and <b>security</b> for socially-relevant applications.
+I am broadly interested in the intersection of <b>machine learning</b> and <b>security</b> for socially-relevant applications, especially towards the ability to have non-intrusive oversight.
 </summary>
 
 1. [🔗⬇️🔗](#network) Mean-field analysis for causality in social media amplification.
@@ -106,7 +143,7 @@ This work is ongoing.
 I wrote a [🔗survey paper🔗](/meanfield.pdf) that helps me understand 1) Mean Field Methods as applied to the theory of deep learning, and 2) a physicist-style modeling, which I applied to qualitative political science.
 
 ----
-### A Worry-free Encryption Plan for Healthcare Data
+### <a name="homomorphic-health"></a>A Worry-free Encryption Plan for Healthcare Data
 
 [🔗HEalth: Privately Computing on Shared Healthcare Data🔗](https://link.springer.com/chapter/10.1007/978-3-030-77287-1_12)
 - w/ Leo de Castro, Rami el Khatib, and Erin Hales at [🔗Microsoft Research Private AI Bootcamp🔗](https://www.microsoft.com/en-us/research/event/private-ai-bootcamp/), part of a book chapter on [Protecting Privacy through Homomorphic Encryption](https://link.springer.com/book/10.1007/978-3-030-77287-1)
@@ -120,7 +157,7 @@ On the other hand, regulatory agencies need to uphold the ethics standards for h
 </details></br>
 
 ---
-### Private ML Demo
+### <a name="smart-mirror-demo"></a>Private ML Demo
 
 A “magic mirror” made with two-way mirrors using purely on-device computations, allowing deployment into the most private spaces (e.g. as a bathroom mirror). It monitors skin conditions, and counts your morning jumping jacks.
 
