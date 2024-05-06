@@ -46,7 +46,6 @@ Efficient and Exact Machine Unlearning from Bi-linear Recommendations.[Paper dra
 My work on the Right To Be Forgotten for content recommenders (with ByteDance).
 
 ### [**Data Appraisal Without Data Sharing** 🔗🔗](https://proceedings.mlr.press/v151/xu22e/xu22e.pdf)
-
 <p>My work on appraising additional training using secure multi-party computation is published at AISTATS 2022 (with Facebook AI Research).
 </p>
 
