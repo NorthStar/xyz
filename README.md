@@ -69,7 +69,7 @@ My work on the Right To Be Forgotten for content recommenders (with ByteDance).
 
 ----
 ## Of Ongoing Interests
-I am starting an organization for secure and private evaluations on safety-critical tasks. Stay tuned, and reach out if you are interested.
+I am increasingly interested in secure and private evaluations on safety-critical tasks. Stay tuned, and reach out if you are interested.
 
 I'm working on integrating cutting-edge cryptography and security techniques into applications that may become future infrastructure. I have opinions on the techniques that afford better policy regarding our future relationship with AI.
 
